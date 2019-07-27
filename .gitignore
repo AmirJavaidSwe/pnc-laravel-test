@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 #/vendor
 =======
-/vendor
+#/vendor
 >>>>>>> 42c98c927feca959ed1baf170f3c4ecf3889f13e
 #.env
 #.env.backup
